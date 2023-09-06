@@ -36,7 +36,7 @@
     - Improve: 改善
     - Update: 更新
     - Remove: 削除
-    - Rename: 変更(ファイル名)
+    - Rename: (ファイル名の)変更
     - Move: 移動
     - Change: 変更
   
